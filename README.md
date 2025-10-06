@@ -27,7 +27,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 
 _Welcome to "Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! :wave:_
 
-GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly. GitHub Copilot is powered by OpenAI Codex, a generative pretrained language model created by OpenAI.
+GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly. Additionally, Copilot can use URL context to incorporate information from web pages and documentation into its suggestions. GitHub Copilot is powered by OpenAI Codex, a generative pretrained language model created by OpenAI.
 
 **Copilot works with many code editors including VS Code, Visual Studio, JetBrains IDE, and Neovim.**
 
